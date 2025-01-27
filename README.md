@@ -28,6 +28,8 @@ The deliverables include detailed reports, Jupyter notebooks, and the final mode
 
 ![image](https://github.com/user-attachments/assets/cdc33a57-811f-4148-beb5-860a72c000cb)
 
-![image](https://github.com/user-attachments/assets/61e311b4-e269-4879-8301-a357e3343eb7)
+
+![image](https://github.com/user-attachments/assets/e8e28906-37a8-4d4e-acdb-65672aef7337)
+
 
 
