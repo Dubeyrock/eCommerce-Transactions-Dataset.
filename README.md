@@ -12,3 +12,22 @@ This project focuses on analyzing an eCommerce transactions dataset consisting o
 3. **Customer Segmentation**: Implement clustering techniques to segment customers based on their profiles and transaction behavior. The project evaluates clustering quality using the DB Index and visualizes the results.
 
 The deliverables include detailed reports, Jupyter notebooks, and the final model outputs, which can be used to improve customer targeting, marketing strategies, and product recommendations for an eCommerce business.
+
+
+
+![image](https://github.com/user-attachments/assets/fc87658b-1de6-43bd-901f-d4a1a4f68149)
+
+![image](https://github.com/user-attachments/assets/d56edf69-caf0-43db-9b48-554c158bdd2c)
+
+
+![image](https://github.com/user-attachments/assets/14db90a1-1da9-407f-89a0-b9ccb4e782a1)
+
+
+![image](https://github.com/user-attachments/assets/758a03f9-ad7f-443a-8b98-77f3a6b7b56a)
+
+
+![image](https://github.com/user-attachments/assets/cdc33a57-811f-4148-beb5-860a72c000cb)
+
+![image](https://github.com/user-attachments/assets/61e311b4-e269-4879-8301-a357e3343eb7)
+
+
