@@ -14,22 +14,22 @@ This project focuses on analyzing an eCommerce transactions dataset consisting o
 The deliverables include detailed reports, Jupyter notebooks, and the final model outputs, which can be used to improve customer targeting, marketing strategies, and product recommendations for an eCommerce business.
 
 
+### demo  
+## 1 . ![image](https://github.com/user-attachments/assets/fc87658b-1de6-43bd-901f-d4a1a4f68149)
 
-![image](https://github.com/user-attachments/assets/fc87658b-1de6-43bd-901f-d4a1a4f68149)
-
-![image](https://github.com/user-attachments/assets/d56edf69-caf0-43db-9b48-554c158bdd2c)
-
-
-![image](https://github.com/user-attachments/assets/14db90a1-1da9-407f-89a0-b9ccb4e782a1)
+## 2. ![image](https://github.com/user-attachments/assets/d56edf69-caf0-43db-9b48-554c158bdd2c)
 
 
-![image](https://github.com/user-attachments/assets/758a03f9-ad7f-443a-8b98-77f3a6b7b56a)
+## 3.![image](https://github.com/user-attachments/assets/14db90a1-1da9-407f-89a0-b9ccb4e782a1)
 
 
-![image](https://github.com/user-attachments/assets/cdc33a57-811f-4148-beb5-860a72c000cb)
+## 4. ![image](https://github.com/user-attachments/assets/758a03f9-ad7f-443a-8b98-77f3a6b7b56a)
 
 
-![image](https://github.com/user-attachments/assets/e8e28906-37a8-4d4e-acdb-65672aef7337)
+## 5. ![image](https://github.com/user-attachments/assets/cdc33a57-811f-4148-beb5-860a72c000cb)
+
+
+## 6. ![image](https://github.com/user-attachments/assets/e8e28906-37a8-4d4e-acdb-65672aef7337)
 
 
 
